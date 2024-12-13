@@ -7,7 +7,7 @@ Estado do LED amarelo piscando a enquanto está escuro:
 ">
 
 Ínicio Led desligado:
-<img src="/estadoPadrao.png">
+<img src="/inicioDesligado.png">
 
 O vermelho também fica menos tempo ligado se apertar o botão, está no código
 
