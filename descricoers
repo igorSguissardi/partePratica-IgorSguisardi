@@ -1,1 +1,12 @@
-aaaaaaaaa
+Estado do semáfaro funcionando a enquanto está claro, com o semáfaro funcionando:
+<img src="/semafaroFuncionando.png">
+
+Estado do LED amarelo piscando a enquanto está escuro:
+
+<img src="/amerelo piscando msm.png
+">
+
+Ínicio Led desligado:
+<img src="/amarelo piscando.png">
+
+O vermelho também fica menos tempo ligado se apertar o botão, está no código
